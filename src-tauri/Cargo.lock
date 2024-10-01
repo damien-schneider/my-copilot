@@ -56,6 +56,7 @@ name = "ai-copilot"
 version = "0.1.0"
 dependencies = [
  "kalosm",
+ "once_cell",
  "serde",
  "serde_json",
  "tauri",
